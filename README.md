@@ -2,7 +2,7 @@ Lumen Electronics Sales Data Warehouse Project
 
 Overview
 
-This project is a realistic data warehouse and business intelligence pipeline built from scratch using a self-generated dataset inspired by this Kaggle dataset.
+This project is a realistic data warehouse and business intelligence pipeline built from scratch using a self-generated dataset inspired by a Kaggle dataset.
 The goal of the project is to simulate a real-world data engineering and analytics workflow, from data generation to final business reporting.
 
 Project Description
